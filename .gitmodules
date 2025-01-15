@@ -1,0 +1,3 @@
+[submodule "Devops_Training"]
+	path = Devops_Training
+	url = https://github.com/KevinMistry03/Devops_Training.git
