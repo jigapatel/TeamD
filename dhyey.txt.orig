@@ -1,11 +1,12 @@
-
+<<<<<<< HEAD
 body {
 color: blue;
 }
 h1 {
 color: green;
 }
-
+=======
+<!DOCTYPE html>
 <html>
 <body>
 
@@ -14,3 +15,4 @@ color: green;
 
 </body>
 </html>
+>>>>>>> 948cdcd43443f771685aaacc001314a25758b508
